@@ -1,4 +1,3 @@
-Tabii, işte `README.md` dosyasına kopyalayıp yapıştırabileceğiniz formatta:
 
 ```markdown
 # PayPool Smart Contract
